@@ -1,0 +1,2 @@
+
+Buna ziua, va anuntam ca {0} s-a alaturat echipei noastre si are urmatoarele skill-uri: {1}.
